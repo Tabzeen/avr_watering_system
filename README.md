@@ -1,4 +1,6 @@
-## AVR-Based Automatic Plant Watering System
+<img width="1037" height="782" alt="image" src="https://github.com/user-attachments/assets/93b32708-15be-4819-bd87-47c9761fab27" />## AVR-Based Automatic Plant Watering System
+![Project Image](preview.jpeg)
+
 An embedded system designed to automate the process of watering houseplants by monitoring capacitive sensor values. The device detects soil moisture and activates a motorized pump to supply water when the moisture falls outside a user-defined range.
 
 #### Core Features
