@@ -8,7 +8,7 @@ This directory contains all files necessary for manufacturing the systems mainbo
 
 #### Directory Structure
 - [Altium](./Altium)
-  - Altium Project source files  
+  - Altium Designer project source files  
 - [Manufacturing](./Manufacturing)
   - Gerber & Drill files as a zip archive
   - Bill of Materials
