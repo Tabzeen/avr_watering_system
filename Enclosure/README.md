@@ -6,6 +6,7 @@ This Directory contains all necessary files for printing the eclosure of the sys
 *Click on the links for a 3D preview*
 - **[APWS_Case_P1.stl](./APWS_Case_P1.stl)**: Bottom Plate for the enclosure
 - **[APWS_Case_P2.stl](./APWS_Case_P2.stl)**: Top Plate for the enclosure
+- **[APWS_Case.FCStd](./APWS_Case.FCStd)**: [FreeCAD](https://www.freecad.org/) Design File
 
 
 ### Additional Components
