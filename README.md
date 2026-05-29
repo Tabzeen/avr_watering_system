@@ -5,7 +5,7 @@
 
 An embedded system designed to automate the process of watering houseplants by monitoring capacitive sensor values. The device detects soil moisture and activates a motorized pump to supply water when the moisture falls outside a user-defined range.
 
-*See [Repository Contents](#repository-contents) for more images and details of each component.*
+*See [Repository Contents](#repository-contents) for more images, details of each component and build instructions.*
 
 #### Core Features
 * **Automated Irrigation:** Monitors soil moisture and runs a 5V pneumatic pump until the target moisture range is satisfied.
